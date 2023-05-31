@@ -1,3 +1,4 @@
+//My Function
 function get10FibNums() {
     let firstNum = 0;
     let secondNum = 1;
@@ -14,6 +15,7 @@ function get10FibNums() {
 
 console.log(get10FibNums());
 
+//Sim's Function
 function print_fibonacci_sequence(){
     num1 = 0;
     num2 = 1;
